@@ -6,7 +6,7 @@ deploy:
   provider: heroku
   api_key:
     secure: riMUFBzap1MCkgOAmOQNLqIcXBrglRuAlNSdObrakbRjL80MyriP9H4FFopwVubDAbQjfLlbCfTE7yDv9/Q6eizAoGGP4YgeSRc/cRDZDWA1mQFwH5hES5DMqrpJYAuBHJmr510e4umRnLQ6JFfBs2ECYrlS+HP4qjePyLzlLBr4fe/sC9QNxmZlgf7YUG3wgUe/2AOf5E0f9Fn5F/BokVa69iTA9slZD4Dmyj9Gi279GxSKguSjdKzLaMwpswRbyUykwp9yUFeTtXyYExn2hXieVHS54c2jbIyqmVnEimspa3N84R+3Zm0lYMVmigbye9wQFQ2RrRjtoEj9ZqBYfuF9fW4vidhU6pMcDKH/MZkykUeTSrYLHImZW1lp1OsnrZMTaqHlkVieK7GK7j65Lz07VPILFmWwfy7HUSOMEE3AAot7mQYH2Hq1iJfzWN1yCbnAzfevuD4MJUCgrSkuVUaTOzyo3cQ5kljKRf+Idsaym7qEu6GJbFnHbinyqrkKPqH2PFdc/7HStVqPi6pv8ZPgEgsKzzn9n/j30JOHD6/Zoi4HLFEmMxhDCNfWYyY+ybXzreQzD/yjarBDQU++DKIKObfKp0J8LD4VWORDGer+MlQDnJRDdWVAd67pn5/p1lR5gFWsROaP2aWRVcjVT+q7Tn//PCZSY9eFbbkEmes=
-  app: obscure-waters-57153.herokuapp.com/
+  app: obscure-waters-57153
   on:
     repo: thinkful-ei21/courtney_test-integration-mongoose-app
     branch: feature/with-tests
